@@ -1,6 +1,6 @@
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="235"/>
-    <img src="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="235"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="300"/>
+    <img src="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="300"/>
 </picture>
 <hr>
 <!-- https://giffiles.alphacoders.com/105/105186.gif -->
