@@ -7,12 +7,12 @@
 <div>
   <picture>
     &nbsp;
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=505" />
-      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=505" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=405" />
+      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=405" />
   </picture> &nbsp;  &nbsp;
   <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=465px&show_icons=true&theme=swift&rank_icon=github&text_bold=false"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=465&show_icons=true&theme=holi&rank_icon=github" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=425px&show_icons=true&theme=swift&rank_icon=github&text_bold=false"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=425&show_icons=true&theme=holi&rank_icon=github" />
   </picture>
 </div>
 <hr>
