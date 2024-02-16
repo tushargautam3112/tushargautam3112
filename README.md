@@ -11,8 +11,8 @@
   </picture>
     &nbsp;  &nbsp;
   <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=355" />
-      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=355" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=365" />
+      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=365" />
   </picture> 
   
 </div>
