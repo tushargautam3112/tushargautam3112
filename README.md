@@ -5,15 +5,16 @@
 <br><hr>
 <!-- https://giffiles.alphacoders.com/105/105186.gif -->
 <div>
-  <picture>
-    &nbsp;
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=405" />
-      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=405" />
-  </picture> &nbsp;  &nbsp;
-  <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=385px&show_icons=true&theme=swift&rank_icon=github&text_bold=false"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=385&show_icons=true&theme=holi&rank_icon=github" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=225px&show_icons=true&theme=swift&rank_icon=github&text_bold=false"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=225&show_icons=true&theme=holi&rank_icon=github" />
   </picture>
+    &nbsp;  &nbsp;
+  <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=355" />
+      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=355" />
+  </picture> 
+  
 </div>
 <hr>
 <picture>
