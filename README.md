@@ -1,5 +1,5 @@
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/105/105186.gif" width="1050" height="300"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/105/105186.gif" width="1050" height="220"/>
     <img src="https://giffiles.alphacoders.com/105/105186.gif" width="1050" height="300"/>
 </picture>
 <br><hr>
@@ -11,8 +11,8 @@
   </picture>
     &nbsp;  &nbsp;
   <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=390" />
-      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=390" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=tushargautam3112&theme=swift&card_width=385" />
+      <img src="https://streak-stats.demolab.com?user=tushargautam3112&theme=holi-theme&card_width=385" />
   </picture> 
   
 </div>
