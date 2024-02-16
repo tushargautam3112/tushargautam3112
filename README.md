@@ -1,8 +1,8 @@
 <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/105/105186.gif" width="1050" height="220"/>
-    <img src="https://giffiles.alphacoders.com/105/105186.gif" width="1050" height="300"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="235"/>
+    <img src="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="235"/>
 </picture>
-<br><hr>
+<hr>
 <!-- https://giffiles.alphacoders.com/105/105186.gif -->
 <div>
     <picture>
