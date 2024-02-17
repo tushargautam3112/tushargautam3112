@@ -1,6 +1,6 @@
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/d5db4c7c9068c99a720c9d6c8e3da221/7d815a16b721e4b5-94/s1280x1920/37c06a246f2c322627825d19ecd05736624c1bdf.gifv" width="850" height="300"/>
-    <img src="https://giffiles.alphacoders.com/105/105186.gif" width="850" height="300"/>
+    <img src="https://github.com/tushargautam3112/tushargautam3112/assets/77859244/e7b43a54-9706-45e4-ad3a-26a36d82848c" width="850" height="300"/>
 </picture>
 <hr>
 <!-- https://giffiles.alphacoders.com/105/105186.gif -->
