@@ -22,14 +22,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=tushargautam3112&theme=juicyfresh&rank=S,A,B,C&no-frame=true"/>
 </picture>
 <hr>
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
-</p> 
-<hr>-->
 <div >
 	<table>
 		<tr>
@@ -48,5 +40,14 @@
 	</table>
 </div>
 <hr>
+<p>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=About.me&logoColor=white">
+  <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=Threads&logoColor=white">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white">
+</p> 
+
 
 
