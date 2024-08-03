@@ -34,15 +34,5 @@
 		</tr>
 	</table>
 </div>
-<hr>
-<p>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=About.me&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=Threads&logoColor=white"> -->
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white">
-</p> 
-
 
 
