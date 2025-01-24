@@ -1,4 +1,6 @@
+
 <!-- https://giffiles.alphacoders.com/105/105186.gif -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33c&height=140&section=header" alt="header"/> 
 <div>
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tushargautam3112&card_width=225px&show_icons=true&theme=swift&rank_icon=github&text_bold=false"/>
@@ -34,5 +36,5 @@
 		</tr>
 	</table>
 </div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33c&height=140&section=footer" alt="footer"/>
 
